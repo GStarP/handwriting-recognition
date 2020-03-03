@@ -194,4 +194,4 @@ if you are not satisfied, you can change layer structure and attrs to improve it
 
 > the latest code will not be updated in this .md file, you can get it in .ipynb file, but I will show you the latest accuracy
 
-latest accuracy: `99.33%`
+latest accuracy: `99.45%`
